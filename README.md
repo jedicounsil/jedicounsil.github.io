@@ -1,2 +1,2 @@
-# zedicounsil.github.io
+# jedicounsil.github.io
 web blog
